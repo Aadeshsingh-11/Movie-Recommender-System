@@ -32,16 +32,16 @@ https://movie-recommender-system-ne3r26mivrnteu3cpvvph7.streamlit.app
 ## 📂 Project Structure
 
 Movie-Recommender-System/
-│
-├── app.py # Streamlit UI
-├── main.py # Recommendation logic
-├── main.ipynb # Data preprocessing & model training
-├── movie_dict.pkl # Processed movie data
-├── movies.pkl # Movie dataframe
-├── tmdb_5000_movie.csv # Dataset
-├── tmdb_5000_credit.csv # Dataset
-├── requirements.txt
-└── README.md
+ │
+ ├── app.py # Streamlit UI
+ ├── main.py # Recommendation logic
+ ├── main.ipynb # Data preprocessing & model training
+ ├── movie_dict.pkl # Processed movie data
+ ├── movies.pkl # Movie dataframe
+ ├── tmdb_5000_movie.csv # Dataset
+ ├── tmdb_5000_credit.csv # Dataset
+ ├── requirements.txt
+ └── README.md
 
 ---
 
